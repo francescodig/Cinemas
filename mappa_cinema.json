@@ -8364,25 +8364,25 @@
 }
 ,
  {
-    "ccomune": "L'Aquila",
-    "cprovincia": "L'AQUILA",
-    "cregione": "Abruzzo",
-    "cnome": "Movieplex L'Aquila",
-    "canno_inserimento": "2017",
-    "cdata_e_ora_inserimento": "2017-06-12T19:20:00Z",
-    "cidentificatore_in_openstreetmap": "3344556677",
-    "clongitudine": "13.401265",
-    "clatitudine": "42.363059"
-  },
-  {
-    "ccomune": "L'Aquila",
-    "cprovincia": "L'AQUILA",
-    "cregione": "Abruzzo",
-    "cnome": "Cinema Massimo",
-    "canno_inserimento": "2016",
-    "cdata_e_ora_inserimento": "2016-04-10T15:45:00Z",
-    "cidentificatore_in_openstreetmap": "4455667788",
-    "clongitudine": "13.395643",
-    "clatitudine": "42.350520"
-  }
+  "ccomune": "L'Aquila",
+  "cprovincia": "L'AQUILA",
+   "cregione": "Abruzzo",
+   "cnome": "Movieplex L'Aquila",
+   "canno_inserimento": "2017",
+   "cdata_e_ora_inserimento": "2017-06-12T19:20:00Z",
+  "cidentificatore_in_openstreetmap": "3344556677",
+   "clongitudine": "13.401265",
+   "clatitudine": "42.363059"    
+},
+{
+   "ccomune": "L'Aquila",
+   "cprovincia": "L'AQUILA",
+   "cregione": "Abruzzo",
+   "cnome": "Cinema Massimo",
+   "canno_inserimento": "2016",
+   "cdata_e_ora_inserimento": "2016-04-10T15:45:00Z",
+   "cidentificatore_in_openstreetmap": "4455667788",
+   "clongitudine": "13.395643",
+   "clatitudine": "42.350520"
+}
 ]
